@@ -1,5 +1,7 @@
 # MedVault - Medication Inventory Tracker
 
+**[Live Demo](https://med-vault-medication-inventory-trac.vercel.app/)**
+
 MedVault is a simple, efficient web application designed to help you manage your personal medication inventory. Built with Flask and Tailwind CSS, it provides a clean interface to track your medications, monitor stock levels, and receive low-stock alerts.
 
 ## Features
